@@ -6,6 +6,7 @@
     "strict": true,
     "noEmit": true,
     "forceConsistentCasingInFileNames": true,
+    "allowImportingTsExtensions": true,
     "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {
@@ -14,4 +15,5 @@
   },
   "include": ["src"]
 }
+
 
